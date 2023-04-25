@@ -1,4 +1,9 @@
 
+### Launch options
+```
+-maxdownloadfilesizemb 500 -noborder -width 1440 -height 900 -nojoy -novid
+````
+
 ### To install this config paste the commands below into your terminal
 *This will delete and replace your current config folder ⚠️*
 ```zsh
